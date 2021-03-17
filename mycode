@@ -1,0 +1,5 @@
+hello class
+{
+void gone()
+{
+System.out.println("hello");
