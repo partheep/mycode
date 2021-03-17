@@ -3,3 +3,6 @@ hello class
 void gone()
 {
 System.out.println("hello");
+System.out.println("world");
+}
+}
